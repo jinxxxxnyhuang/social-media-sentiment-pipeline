@@ -1,0 +1,26 @@
+[
+  {
+    "record_id": "mastodon_116502808852752584",
+    "source": "mastodon",
+    "source_post_id": "116502808852752584",
+    "created_at": "2026-05-02T03:00:53+00:00",
+    "harvested_at": "2026-05-02T03:17:14.485946+00:00",
+    "batch_id": "9e38623d-8977-42d8-9bd9-362789d902bc",
+    "url": "https://www.threads.com/@bulwarkonline/post/DX0gZEUCPYa",
+    "language": "en",
+    "content_clean": "\"This isn’t cancel culture. This is consequence culture\" - MAGA",
+    "hashtags": [],
+    "instance": "threads.net",
+    "topic": "trump",
+    "sentiment_label": "neutral",
+    "sentiment_confidence": 0.9042,
+    "sentiment_score": 0.0,
+    "reblogs_count": 0,
+    "favourites_count": 0,
+    "replies_count": 0,
+    "media_only": false,
+    "account_id": "112369186951840614",
+    "account_username": "bulwarkonline",
+    "account_acct": "bulwarkonline@threads.net"
+  }
+]

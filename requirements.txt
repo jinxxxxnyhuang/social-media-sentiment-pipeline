@@ -1,0 +1,8 @@
+Mastodon.py==1.8.1
+beautifulsoup4==4.12.3
+python-dotenv==1.0.1
+elasticsearch==8.17.0
+requests==2.32.3
+pytest==8.3.5
+transformers
+torch

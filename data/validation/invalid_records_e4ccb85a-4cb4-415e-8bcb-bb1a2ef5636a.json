@@ -1,0 +1,21 @@
+[
+  {
+    "record_id": "mastodon_116486659905831676",
+    "source": "mastodon",
+    "source_post_id": "116486659905831676",
+    "created_at": "2026-04-29T06:49:28+00:00",
+    "harvested_at": "2026-04-29T06:53:11.365090+00:00",
+    "batch_id": "e4ccb85a-4cb4-415e-8bcb-bb1a2ef5636a",
+    "url": "https://toot.lv/@edza/116486659694052239",
+    "language": "lv",
+    "content_clean": "",
+    "topic": "other",
+    "sentiment_score": 0.0,
+    "reblogs_count": 0,
+    "favourites_count": 0,
+    "replies_count": 0,
+    "account_id": "109828875638966787",
+    "account_username": "edza",
+    "account_acct": "edza@toot.lv"
+  }
+]

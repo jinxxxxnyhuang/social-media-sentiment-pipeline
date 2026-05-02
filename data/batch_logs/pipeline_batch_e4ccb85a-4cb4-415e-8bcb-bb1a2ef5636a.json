@@ -1,0 +1,20 @@
+{
+  "batch_id": "e4ccb85a-4cb4-415e-8bcb-bb1a2ef5636a",
+  "source": "mastodon",
+  "records_extracted": 120,
+  "records_processed": 120,
+  "records_valid": 119,
+  "records_invalid": 1,
+  "records_loaded": 119,
+  "records_failed_load": 0,
+  "validation_error_count": 1,
+  "harvester_status": "completed",
+  "processor_status": "completed",
+  "validator_status": "completed_with_errors",
+  "loader_status": "completed",
+  "pipeline_status": "completed_with_errors",
+  "start_time": "2026-04-29T06:53:08.186878+00:00",
+  "end_time": "2026-04-29T06:53:11.599986+00:00",
+  "duration_seconds": 3.413108,
+  "created_at": "2026-04-29T06:53:11.600158+00:00"
+}

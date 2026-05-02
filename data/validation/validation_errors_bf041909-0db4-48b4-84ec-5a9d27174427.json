@@ -1,0 +1,852 @@
+[
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498443472172510",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898210"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498443290971289",
+    "field_name": "content_clean",
+    "issue_type": "missing_content",
+    "severity": "medium",
+    "message": "Cleaned content is missing or empty.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898215"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498443290971289",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898216"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498443224369779",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898218"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498443048587515",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898220"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498442321387954",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898223"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498441844765248",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898225"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498441666645497",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898226"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498441270901958",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898228"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498441031295360",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898229"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498440543428790",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898232"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498439768875679",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898234"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498438914032989",
+    "field_name": "content_clean",
+    "issue_type": "missing_content",
+    "severity": "medium",
+    "message": "Cleaned content is missing or empty.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898238"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498438914032989",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898239"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498438913895531",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898240"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498438563822132",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898242"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498437814118953",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898245"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498437433172466",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898247"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498436751426685",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898250"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498436717427146",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898252"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498436267697291",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898254"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498435929168861",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898256"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498435832456955",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898257"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498435830998825",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898259"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498435582239317",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898260"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498435512185899",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898262"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498435322285694",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898263"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498435220302121",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898264"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498434481857223",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898266"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498434333156916",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898267"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498433941229314",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898270"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498433534726971",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898271"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498432862831772",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898273"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498432743529808",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898274"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498432236534444",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898275"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498431919954654",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898277"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498431904584547",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898280"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498431076511130",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898283"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498430578134148",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898285"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498430221267932",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898287"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498429507395304",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898288"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498428590129938",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898290"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498428565649750",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898291"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498428516342695",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898293"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498428515479295",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898294"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498428276337019",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898295"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498427959421064",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898297"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498427740779459",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898299"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498426881619294",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898302"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498426881190589",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898303"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498426788017010",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898304"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498426201439188",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898306"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498426061756068",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898308"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498425427400276",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898311"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498425265874160",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898312"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498425184767001",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898313"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498424450945908",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898315"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498424015283119",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898316"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498423600306388",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898318"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498423234997505",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898320"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498421790425656",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898324"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498421747600626",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898325"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498421340826092",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898327"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498420743997592",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898331"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498420641571972",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898333"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498420559745907",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898334"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498420552784474",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898335"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498420249884949",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898337"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498419989193583",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898339"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498419711010726",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898340"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498419657855122",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898341"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498419305803222",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898343"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498419242093496",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898344"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498419231221969",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898345"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498418404398293",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898348"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498418215654809",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898349"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498417920120549",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898351"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498417420231544",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898353"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498417291665931",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898354"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498416820612182",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898357"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498416527226871",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898358"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498416245881430",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898361"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498415750085347",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898363"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498415732924803",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898364"
+  },
+  {
+    "batch_id": "bf041909-0db4-48b4-84ec-5a9d27174427",
+    "record_id": "mastodon_116498415531392267",
+    "field_name": "sentiment_score",
+    "issue_type": "missing_sentiment",
+    "severity": "medium",
+    "message": "Sentiment score is missing.",
+    "status": "open",
+    "created_at": "2026-05-01T08:46:23.898365"
+  }
+]
